@@ -17,8 +17,12 @@ I'm a Back-end Software Engineer <br/>
   <a href="https://www.linkedin.com/in/omar-shoman-6355242b2/" target="_blank">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  
+   <a href="mailto:omar.f.shoman@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
   <a href="https://x.com/omar_shoman15" target="_blank">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" width="52" height="40" alt="twitter logo"  />
   </a>
 </div>
+
+
