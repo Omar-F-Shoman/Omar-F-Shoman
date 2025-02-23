@@ -21,9 +21,9 @@ I'm a passionate Data Analyst with a background in backend development and a str
 
 ## 📂 Projects
 
-1.  **[Sales Analysis Dashboard](https://www.linkedin.com/posts/omar-shoman_excel-dashboard-dataanalytics-activity-7269459739804151808-DB94?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEsvHIkBupAZvg8aybGvDhKUb5LQmcRIO30)** – An insightful dashboard that analyzes sales trends and helps businesses make data-driven decisions using Excel and Power BI.
-2.  **[MySQL Problem Solving Repository](https://github.com/Omar-F-Shoman/Leet_Code/tree/main/MYSQL)** – A collection of SQL challenges and solutions to enhance database querying skills.
-3.  **[DataCamp Profile](https://www.datacamp.com/portfolio/omarfshoman?view=true)** – Showcasing projects and completed courses in data analysis and programming.
+-  **[Sales Analysis Dashboard](https://www.linkedin.com/posts/omar-shoman_excel-dashboard-dataanalytics-activity-7269459739804151808-DB94?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEsvHIkBupAZvg8aybGvDhKUb5LQmcRIO30)** – An insightful dashboard that analyzes sales trends and helps businesses make data-driven decisions using Excel and Power BI.
+-  **[MySQL Problem Solving Repository](https://github.com/Omar-F-Shoman/Leet_Code/tree/main/MYSQL)** – A collection of SQL challenges and solutions to enhance database querying skills.
+-  **[DataCamp Profile](https://www.datacamp.com/portfolio/omarfshoman?view=true)** – Showcasing projects and completed courses in data analysis and programming.
 
 ## 🎓 Certifications
 
