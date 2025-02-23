@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Omar Shoman
+#  Hi, I'm Omar Shoman
 
-✨ **Data Analyst | Business student  | Problem Solver**
+ **Data Analyst | Business student  | Problem Solver**
 
 I'm a passionate Data Analyst with a background in backend development and a strong foundation in business analysis. I specialize in transforming raw data into actionable insights using tools like Power BI, SQL, Python, and Excel. My mission is to help businesses make data-driven decisions that fuel growth and innovation.
 
@@ -14,24 +14,24 @@ I'm a passionate Data Analyst with a background in backend development and a str
 
 ## 💡 Key Skills
 
-📊 **Data Analysis & Visualization:** Power BI, Excel, Matplotlib, Seaborn  
-💾 **Database Management:** SQL, PostgreSQL, MySQL  
-📈 **Business Intelligence:** Dashboard Development, Data Reporting  
-🔒 **Data Cleaning & Preprocessing**  
+  - **Data Analysis & Visualization:** Power BI, Excel, Matplotlib, Seaborn  
+  - **Database Management:** SQL, PostgreSQL, MySQL  
+  - **Business Intelligence:** Dashboard Development, Data Reporting  
+  - **Data Cleaning & Preprocessing**  
 
 ## 📂 Projects
 
-1. 📈 **[Sales Analysis Dashboard](https://www.linkedin.com/posts/omar-shoman_excel-dashboard-dataanalytics-activity-7269459739804151808-DB94?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEsvHIkBupAZvg8aybGvDhKUb5LQmcRIO30)** – An insightful dashboard that analyzes sales trends and helps businesses make data-driven decisions using Excel and Power BI.
-2. 💻 **[MySQL Problem Solving Repository](https://github.com/Omar-F-Shoman/Leet_Code/tree/main/MYSQL)** – A collection of SQL challenges and solutions to enhance database querying skills.
-3. 🎓 **[DataCamp Profile](https://www.datacamp.com/portfolio/omarfshoman?view=true)** – Showcasing projects and completed courses in data analysis and programming.
+1.  **[Sales Analysis Dashboard](https://www.linkedin.com/posts/omar-shoman_excel-dashboard-dataanalytics-activity-7269459739804151808-DB94?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEsvHIkBupAZvg8aybGvDhKUb5LQmcRIO30)** – An insightful dashboard that analyzes sales trends and helps businesses make data-driven decisions using Excel and Power BI.
+2.  **[MySQL Problem Solving Repository](https://github.com/Omar-F-Shoman/Leet_Code/tree/main/MYSQL)** – A collection of SQL challenges and solutions to enhance database querying skills.
+3.  **[DataCamp Profile](https://www.datacamp.com/portfolio/omarfshoman?view=true)** – Showcasing projects and completed courses in data analysis and programming.
 
 ## 🎓 Certifications
 
-- 🏅 **[Associate Data Analyst in SQL](https://www.linkedin.com/in/omar-shoman/details/certifications/)** – DataCamp (Valid until Feb 2025)  
-- 📊 **[Data Analyst Bootcamp](https://www.linkedin.com/in/omar-shoman/details/certifications/)** – Analyst Builder (Issued Nov 2024)  
-- 🖥️ **[Back-End Web Development](https://www.linkedin.com/in/omar-shoman/details/certifications/)** – ALX Africa (Valid until Jan 2025)  
-- 🎤 **[Professional Foundations](https://www.linkedin.com/in/omar-shoman/details/certifications/)** – ALX Africa (Expired Aug 2024)  
-- 🤖 **[AI Career Essentials](https://www.linkedin.com/in/omar-shoman/details/certifications/)** – ALX Africa (Issued May 2024)  
+-  **[Associate Data Analyst in SQL](https://www.linkedin.com/in/omar-shoman/details/certifications/)** – DataCamp (Valid until Feb 2025)  
+-  **[Data Analyst Bootcamp](https://www.linkedin.com/in/omar-shoman/details/certifications/)** – Analyst Builder (Issued Nov 2024)  
+-  **[Back-End Web Development](https://www.linkedin.com/in/omar-shoman/details/certifications/)** – ALX Africa (Valid until Jan 2025)  
+-  **[Professional Foundations](https://www.linkedin.com/in/omar-shoman/details/certifications/)** – ALX Africa (Expired Aug 2024)  
+-  **[AI Career Essentials](https://www.linkedin.com/in/omar-shoman/details/certifications/)** – ALX Africa (Issued May 2024)  
 
 ## 💻 I Code With
 
