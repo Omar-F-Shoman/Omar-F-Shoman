@@ -4,7 +4,7 @@
 
 I'm a passionate Data Analyst with a background in backend development and a strong foundation in business analysis. I specialize in transforming raw data into actionable insights using tools like Power BI, SQL, Python, and Excel. My mission is to help businesses make data-driven decisions that fuel growth and innovation.
 
-## 🔍 About Me
+##  🤚🏻About Me
 
 📚 I'm currently learning how to merge business insights with technical skills through data analysis, database management.
 
